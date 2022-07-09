@@ -1,0 +1,182 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #B0C4DE;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: justify;
+}
+
+#nav {
+    background-color: #FFFAFA;
+  padding: 40px;
+  margin-right: 50px;
+  margin-left: 50px;
+}
+
+.link {
+    color:  #B0C4DE;
+    text-decoration: none;
+    width: 100%;
+  word-spacing: 2cm;
+}
+
+.link:link {
+    color:  #B0C4DE; 
+}
+
+.link:active{
+    color: #5499C7;
+}
+
+.link:hover {
+    color: #778899;
+}
+
+#wit {
+    background-color: #FFFAFA;
+    margin: 25px;
+    padding: 30px;
+}
+/*USES section part */
+#uses {
+    background-color: #FFFAFA;
+    margin: 100px;
+    padding: 30px;
+}
+/*USES paragraphs part */
+.uses_para {
+  color: #808080;
+  font-size: 20px;
+}
+/*USES article id */
+#robots_uses {
+  text-align: justify;
+  padding:50px;
+}
+
+h2 {
+  color: #3F3D3C;
+}
+/*TYPES section part */
+#types {
+  background-color: #FFFAFA;
+    margin: 100px;
+    padding: 30px;
+}
+/* TYPES article id */
+#robo-types {
+  text-align: left;
+  padding:100px;
+  text-align: justify;
+}
+
+.types_para {
+  color: #808080;
+  font-size: 20px;
+}
+
+#function {
+  background-color: #FFFAFA;
+    margin: 50px;
+    padding: 30px;
+}
+/* TYPES article id */
+#functions {
+  text-align: justify;
+  padding:150px;
+  
+}
+
+.para {
+  color: #808080;
+  font-size: 20px;
+}
+
+
+#footer {
+  background-color: lightgrey;
+  
+  text-align: center;
+  opacity: 0.6;
+  transition: 0.3s;
+  margin-left: 100px;
+  margin-right: 100px;
+  padding: 200px;
+}
+
+#footer:hover {
+  opacity: 1;
+  border: none;
+}
+
+button {
+  background-color: #0E1097;
+  width: ;
+  border: 2px solid white;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  opacity: 0.6;
+  transition: 0.3s;
+  margin-bottom: 20px;
+  margin-left: 1045px;
+}
+
+button:hover {
+  opacity: 1;
+  border: none;
+}
+
+#history_section {
+    background-color: #FFFAFA;
+    margin: 50px;
+    padding: 30px;
+  text-align: justify;
+}
+
+.hp {
+  color: #808080;
+  font-size: 20px;
+  padding-left: 50px;
+}
+
+#history {
+  text-align: left;
+  padding:150px;
+}
+
+#s {
+  padding-right: 450px;
+  color: #1E90FF;
+  text-decoration:none;
+  font-size: 20px;
+  opacity: 0.6;
+  transition: 0.3s;
+  
+}
+#s:hover {
+  opacity: 1;
+}
+
+#a {
+  padding-right: 495px;
+  color: #1E90FF;
+  text-decoration:none;
+  font-size: 20px;
+  opacity: 0.6;
+  transition: 0.3s;
+  
+}
+#a:hover {
+  opacity: 1;
+}
+
+#s5 {
+  background-color: #FFFAFA;
+    margin: 50px;
+    padding: 30px;
+}
